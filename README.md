@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @modler
-- I’m interested in learning and growing
+- I’m a beginner who is trying to learn to break into a new career. 
 - 🌱 I’m currently learning Java, Swift, and BASH.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 - matt.modler@gmail.com
 
